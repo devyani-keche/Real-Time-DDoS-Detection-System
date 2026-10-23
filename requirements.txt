@@ -1,0 +1,8 @@
+pyspark==3.5.0
+kafka-python
+cassandra-driver
+streamlit
+pandas
+plotly
+seaborn
+matplotlib
